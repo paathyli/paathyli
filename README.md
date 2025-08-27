@@ -9,12 +9,10 @@
 ___
 
 
-<a href="LINK_DO_SEU_SITE_AQUI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=paathyli&show_icons=true&theme=radical" alt="Github status" />
-</a>
-<a href="https://github.com/paathyli/paathyli">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paathyli&layout=compact&theme=radical" />
-</a>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=paathyli&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paathyli&layout=compact&theme=radical)
+
+
 
 ___
 <div>
