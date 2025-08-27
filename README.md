@@ -1,8 +1,10 @@
 # <strong>✨Patrícia Lima✨</strong>  
 
- Estudande de Análise e Desenvolvimento de Sistemas - Faculdade Senac
- Desenvolvedora FullStack
- Estágiaria da Avanade Brasil
+- 🥰 Estudante de Anáise e Desenvolvimento de Sistemas
+- ⚡  Estagiaria da Avanade Brasil
+- 👾  Desenvolvedora FullStack 
+- 😄  [Meu portifólio em construção!](https://pathydev-flexbox.vercel.app/) 
+
 
 ___
 
