@@ -10,7 +10,8 @@ ___
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=paathyli&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paathyli&layout=compact&theme=radical)
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paathyli&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
 
 ___
