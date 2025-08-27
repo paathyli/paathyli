@@ -13,7 +13,6 @@ ___
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paathyli&layout=compact&theme=radical)
 
 
-
 ___
 <div>
   <p align="center">
