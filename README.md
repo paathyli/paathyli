@@ -3,7 +3,7 @@
 - 🥰 Estudante de Anáise e Desenvolvimento de Sistemas
 - ⚡  Estagiaria da Avanade Brasil
 - 👾  Desenvolvedora FullStack 
-- 😄  [Meu portifólio em construção!](https://pathydev-flexbox.vercel.app/) 
+- 😄  [Meu portifólio!](https://pathydev.vercel.app/) 
 
 
 ___
